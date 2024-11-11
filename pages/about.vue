@@ -4,7 +4,7 @@
     <div class="container px-3 py-3 mt-5" id="aboutPage">
             <h2 class="demoTitle">How to use this site</h2>
             <p>
-                chessinsights.xyz is an open source website that aims to provide an intuitive and 
+                48jcl.github.io is an open source website that aims to provide an intuitive and 
                 free way to explore your chess.com data. It is built with Vue.js and Bootstrap and 
                 pulls data directly from the chess.com API. The source code is available on github 
                 <a target="_blank" href="https://github.com/NotJoeMartinez/chess-insights">here</a>.
