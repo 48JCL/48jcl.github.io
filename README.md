@@ -1,4 +1,4 @@
-# [chessinsights.xyz](https://chessinsights.xyz/)
+# [48jcl.github.io](https://48jcl.github.io/)
 
 ![img](docs/imgs/resByOppRating.png)
 ![img](docs/imgs/topOpenings.png)
